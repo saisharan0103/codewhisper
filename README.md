@@ -18,8 +18,8 @@ Code Explainer is a web application that helps you understand code snippets by p
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone <YOUR_GIT_URL>
-   cd <YOUR_PROJECT_NAME>
+   git clone <https://github.com/saisharan0103/codewhisper>
+   cd <codewhisper>
    ```
 2. Install dependencies:
    ```sh
@@ -57,4 +57,4 @@ npm run build
 The production-ready files will be in the `dist/` directory.
 
 ## License
-This project is open source and available under the MIT License.
+This project is open source.
